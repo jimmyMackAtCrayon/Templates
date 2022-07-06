@@ -53,7 +53,7 @@ using (StreamWriter sw = File.CreateText(@"..\..\..\Markup\index.html"))
     sw.WriteLine(temp);
 }
 
-// Zip up full solution
+// Package Output
 
 
 
