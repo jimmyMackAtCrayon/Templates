@@ -1,4 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿using System.IO.Compression;
+
 Console.WriteLine("************************");
 Console.WriteLine("Welcome to the Carousel Template");
 Console.WriteLine("You will be prompted for a folder location that contains the images to be displayed in the Carousel.");
@@ -25,7 +26,9 @@ int i = 0;
 var lst = new List<string>();
 foreach (FileInfo file in Files)
 {
-    lst.Add(file.Name.Trim());    
+    lst.Add(file.Name.Trim());
+    // 1. Copy Files
+    File.Copy(folder+@"\"+file.Name, @"..\..\..\Markup\images\" + file.Name, true);
     i++;
 }
 Console.WriteLine("The directory contains {0} images", i);
@@ -42,10 +45,9 @@ foreach (var item in lst)
 }
 
 // Read in template.html
-var temp = File.ReadAllText(@"..\..\..\Markup\template.html");
+var temp = File.ReadAllText(@"..\..\..\Templates\template.html");
 
 temp = temp.Replace("<!-- #images# -->", html);
-
 
 // Create another index.html
 using (StreamWriter sw = File.CreateText(@"..\..\..\Markup\index.html"))
@@ -53,13 +55,9 @@ using (StreamWriter sw = File.CreateText(@"..\..\..\Markup\index.html"))
     sw.WriteLine(temp);
 }
 
-// Package Output
-
-
-
-
 Console.WriteLine("\n\nThank you, process is complete. Please hit any key.");
 Console.Read();
+
 
 
 

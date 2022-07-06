@@ -1,0 +1,15 @@
+C:\Git\PROJECTS\Templates\Carousel\CarouselGenerator\CarouselGenerator\bin\Release\net6.0\CarouselGenerator.exe
+C:\Git\PROJECTS\Templates\Carousel\CarouselGenerator\CarouselGenerator\bin\Release\net6.0\CarouselGenerator.deps.json
+C:\Git\PROJECTS\Templates\Carousel\CarouselGenerator\CarouselGenerator\bin\Release\net6.0\CarouselGenerator.runtimeconfig.json
+C:\Git\PROJECTS\Templates\Carousel\CarouselGenerator\CarouselGenerator\bin\Release\net6.0\CarouselGenerator.dll
+C:\Git\PROJECTS\Templates\Carousel\CarouselGenerator\CarouselGenerator\bin\Release\net6.0\CarouselGenerator.pdb
+C:\Git\PROJECTS\Templates\Carousel\CarouselGenerator\CarouselGenerator\obj\Release\net6.0\CarouselGenerator.csproj.AssemblyReference.cache
+C:\Git\PROJECTS\Templates\Carousel\CarouselGenerator\CarouselGenerator\obj\Release\net6.0\CarouselGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\PROJECTS\Templates\Carousel\CarouselGenerator\CarouselGenerator\obj\Release\net6.0\CarouselGenerator.AssemblyInfoInputs.cache
+C:\Git\PROJECTS\Templates\Carousel\CarouselGenerator\CarouselGenerator\obj\Release\net6.0\CarouselGenerator.AssemblyInfo.cs
+C:\Git\PROJECTS\Templates\Carousel\CarouselGenerator\CarouselGenerator\obj\Release\net6.0\CarouselGenerator.csproj.CoreCompileInputs.cache
+C:\Git\PROJECTS\Templates\Carousel\CarouselGenerator\CarouselGenerator\obj\Release\net6.0\CarouselGenerator.dll
+C:\Git\PROJECTS\Templates\Carousel\CarouselGenerator\CarouselGenerator\obj\Release\net6.0\refint\CarouselGenerator.dll
+C:\Git\PROJECTS\Templates\Carousel\CarouselGenerator\CarouselGenerator\obj\Release\net6.0\CarouselGenerator.pdb
+C:\Git\PROJECTS\Templates\Carousel\CarouselGenerator\CarouselGenerator\obj\Release\net6.0\CarouselGenerator.genruntimeconfig.cache
+C:\Git\PROJECTS\Templates\Carousel\CarouselGenerator\CarouselGenerator\obj\Release\net6.0\ref\CarouselGenerator.dll

@@ -1,0 +1,5 @@
+C:\Git\PROJECTS\Templates\Carousel\CarouselGenerator\CarouselGenerator\bin\Release\net6.0\publish\CarouselGenerator.exe
+C:\Git\PROJECTS\Templates\Carousel\CarouselGenerator\CarouselGenerator\bin\Release\net6.0\publish\CarouselGenerator.dll
+C:\Git\PROJECTS\Templates\Carousel\CarouselGenerator\CarouselGenerator\bin\Release\net6.0\publish\CarouselGenerator.deps.json
+C:\Git\PROJECTS\Templates\Carousel\CarouselGenerator\CarouselGenerator\bin\Release\net6.0\publish\CarouselGenerator.runtimeconfig.json
+C:\Git\PROJECTS\Templates\Carousel\CarouselGenerator\CarouselGenerator\bin\Release\net6.0\publish\CarouselGenerator.pdb
